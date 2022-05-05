@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# File csv not to upload
+/MayPlayground/sample_submission.csv
+/MayPlayground/test.csv
+/MayPlayground/train.csv
