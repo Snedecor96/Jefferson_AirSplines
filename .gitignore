@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 # .csv not to push on GitHub
+july-playground/data.csv
